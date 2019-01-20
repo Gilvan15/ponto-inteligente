@@ -184,13 +184,5 @@ public class Funcionario implements Serializable {
 				+ dataAtualizacao + ", empresa=" + empresa + "]";
 	}
 	
-	
-	
-	
-		
-	
-	
-	
-	
 
 }
